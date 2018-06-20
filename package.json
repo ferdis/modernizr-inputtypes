@@ -1,0 +1,19 @@
+{
+  "name": "modernizr-inputtypes",
+  "version": "3.6.1",
+  "description": "",
+  "main": "modernizr.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferdis/modernizr-inputtypes.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ferdis/modernizr-inputtypes/issues"
+  },
+  "homepage": "https://github.com/ferdis/modernizr-inputtypes#readme"
+}
